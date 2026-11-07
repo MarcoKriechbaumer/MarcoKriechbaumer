@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/corecommerce-social-banner-v2.png" alt="CoreCommerce Technologies — eCommerce Software Development · Magento · OpenMage · Custom Commerce" width="100%">
+  <img src="assets/corecommerce-social-banner-v2-github.png" alt="CoreCommerce Technologies - eCommerce Software Development · Magento · OpenMage · Custom Commerce" width="100%">
 </div>
 
 <h1 align="center">Marco Kriechbaumer</h1>
